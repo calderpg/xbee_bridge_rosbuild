@@ -1,35 +1,20 @@
-*.py[cod]
+bin/
+build/
+lib/
+srv_gen/
+msg_gen/
+bags/
+bag/
+CMakeFiles/
+qtcreator-build/
 
-# C extensions
-*.so
+xbee_bridge/src/xbee_bridge/msg/
+xbee_bridge/src/xbee_bridge/srv/
 
-# Packages
-*.egg
-*.egg-info
-dist
-build
-eggs
-parts
-bin
-var
-sdist
-develop-eggs
-.installed.cfg
-lib
-lib64
-
-# Installer logs
-pip-log.txt
-
-# Unit test / coverage reports
-.coverage
-.tox
-nosetests.xml
-
-# Translations
-*.mo
-
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject
+*~
+*.pyc
+.svn
+.o
+.cmake
+.user
+.cbp
