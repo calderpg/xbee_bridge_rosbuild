@@ -1,5 +1,5 @@
-xbee_bridge
-===========
+xbee_bridge_rosbuild
+====================
 
 General-purpose ROS-ROS message transport over serial ports and compatible Xbee radios.
 
